@@ -1,7 +1,7 @@
-# IWH2019
-InternationaWomen'sHackathon2019 project
-Submission for International Women's Hackathon 2019
+# InternationalWomensHackathon2019
+Submission for International Women Hackathon 
 
-The Repository includes :
-1.Backend service to retrieve route
-2.Hololens app Bundle 
+ The Repository includes :
+ 
+    1.Backend service to retrive route
+    2.Hololens app Bundle 
